@@ -3,7 +3,7 @@
 import plotly.express as px
 import math
 import streamlit as st
-import psycopg2  # CHANGED: Replace pyodbc with psycopg2
+# import psycopg2  # CHANGED: Replace pyodbc with psycopg2
 import pandas as pd
 import sqlite3
 import os
